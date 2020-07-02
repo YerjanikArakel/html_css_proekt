@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-header {
+  display: flex;
+  margin: 7px;
+  background-color: coral;
+  border-radius: 7px;
+}
+
+.main-header-items {
+  list-style-type: none;
+  display: flex;
+}
+.main-header-item {
+  padding: 15px;
+}
+
+.main-footer {
+  text-align: center;
+}
