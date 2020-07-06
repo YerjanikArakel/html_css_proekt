@@ -2,8 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url("/images.82df8744.jpg");
-
   scroll-behavior: smooth;
 }
 
@@ -21,6 +19,7 @@
   list-style-type: none;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 .main-header-items .main-header-item {
   padding: 15px;
@@ -32,7 +31,6 @@
 
 .main-page-conteiner {
   display: flex;
-  border-bottom: lawngreen 2px solid;
 }
 
 .body-seperator {
@@ -41,5 +39,10 @@
   width: 2px;
 }
 
-
-/*# sourceMappingURL=/css.9e29eda8.css.map */
+.svg-icon {
+  width: 25px;
+  justify-content: center;
+  align-items: center;
+  margin: initial;
+  padding: 0%;
+}
