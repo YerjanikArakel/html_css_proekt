@@ -5,8 +5,8 @@ Sorry for design but I try to use  Gulp(its work very hard)<br>
                                     Parcel-bundling - its was easyer.<br>
                                     Audio works much better with Mozila Firefox.<br>
 ## Stack    
-         HTML.<br>
-         CSS.<br>
-         Parcel.<br>
-         Gulp.<br>
+         HTML
+         CSS
+         Parcel
+         Gulp
 
