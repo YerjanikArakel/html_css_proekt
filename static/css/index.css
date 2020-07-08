@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin: 10;
   padding: 0;
   box-sizing: border-box;
   background-image: url("../img/images.jpg");
@@ -7,6 +7,12 @@
   scroll-behavior: smooth;
 }
 
+@media only screen and (max-width: 600px) {
+  body{
+    background-color: #bbb;
+    background-image: none;
+  }
+}
 .main-header {
   display: flex;
   margin: 7px;
